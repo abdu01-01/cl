@@ -177,6 +177,9 @@
   .mt-\[17px\] {
     margin-top: 17px;
   }
+  .mt-\[19px\] {
+    margin-top: 19px;
+  }
   .mt-\[20px\] {
     margin-top: 20px;
   }
@@ -318,6 +321,9 @@
   .h-\[4000px\] {
     height: 4000px;
   }
+  .w-50 {
+    width: calc(var(--spacing) * 50);
+  }
   .w-80 {
     width: calc(var(--spacing) * 80);
   }
@@ -339,6 +345,9 @@
   .w-\[100\] {
     width: 100;
   }
+  .w-\[100px\] {
+    width: 100px;
+  }
   .w-\[375px\] {
     width: 375px;
   }
@@ -350,6 +359,9 @@
   }
   .w-\[zz\] {
     width: zz;
+  }
+  .w-auto {
+    width: auto;
   }
   .border-collapse {
     border-collapse: collapse;
