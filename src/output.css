@@ -164,11 +164,17 @@
   }
 }
 @layer utilities {
+  .m-\[17px\] {
+    margin: 17px;
+  }
   .m-auto {
     margin: auto;
   }
   .mt-\[1\] {
     margin-top: 1;
+  }
+  .mt-\[17px\] {
+    margin-top: 17px;
   }
   .mt-\[20px\] {
     margin-top: 20px;
@@ -182,8 +188,14 @@
   .mt-\[129\] {
     margin-top: 129;
   }
+  .mt-\[153px\] {
+    margin-top: 153px;
+  }
   .mt-\[210px\] {
     margin-top: 210px;
+  }
+  .mr-\[17px\] {
+    margin-right: 17px;
   }
   .ml-\[144px\] {
     margin-left: 144px;
@@ -196,6 +208,15 @@
   }
   .h-\[0px\] {
     height: 0px;
+  }
+  .h-\[2\] {
+    height: 2;
+  }
+  .h-\[2vh\] {
+    height: 2vh;
+  }
+  .h-\[8\] {
+    height: 8;
   }
   .h-\[80px\] {
     height: 80px;
@@ -212,11 +233,17 @@
   .h-\[288px\] {
     height: 288px;
   }
+  .h-\[380px\] {
+    height: 380px;
+  }
   .h-\[479px\] {
     height: 479px;
   }
   .h-\[507px\] {
     height: 507px;
+  }
+  .h-\[594px\] {
+    height: 594px;
   }
   .h-\[600px\] {
     height: 600px;
@@ -239,8 +266,23 @@
   .h-\[1000px\] {
     height: 1000px;
   }
+  .h-\[2423\] {
+    height: 2423;
+  }
+  .h-\[2423px\] {
+    height: 2423px;
+  }
+  .h-\[3000px\] {
+    height: 3000px;
+  }
+  .h-\[4000px\] {
+    height: 4000px;
+  }
   .w-\[6\] {
     width: 6;
+  }
+  .w-\[50\%\] {
+    width: 50%;
   }
   .w-\[80\%\] {
     width: 80%;
@@ -277,6 +319,9 @@
   }
   .justify-center {
     justify-content: center;
+  }
+  .justify-end {
+    justify-content: flex-end;
   }
   .gap-\[8px\] {
     gap: 8px;
@@ -406,6 +451,9 @@
   .pt-\[31px\] {
     padding-top: 31px;
   }
+  .pt-\[34px\] {
+    padding-top: 34px;
+  }
   .pt-\[56px\] {
     padding-top: 56px;
   }
@@ -414,6 +462,9 @@
   }
   .pt-\[80px\] {
     padding-top: 80px;
+  }
+  .pt-\[122px\] {
+    padding-top: 122px;
   }
   .pt-\[128px\] {
     padding-top: 128px;
@@ -454,11 +505,17 @@
   .text-\[25px\] {
     font-size: 25px;
   }
+  .text-\[26px\] {
+    font-size: 26px;
+  }
   .text-\[30px\] {
     font-size: 30px;
   }
   .text-\[35px\] {
     font-size: 35px;
+  }
+  .text-\[48px\] {
+    font-size: 48px;
   }
   .text-\[55px\] {
     font-size: 55px;
@@ -466,8 +523,14 @@
   .text-\[72px\] {
     font-size: 72px;
   }
+  .text-\[73px\] {
+    font-size: 73px;
+  }
   .text-\[76px\] {
     font-size: 76px;
+  }
+  .text-\[80px\] {
+    font-size: 80px;
   }
   .text-\[100px\] {
     font-size: 100px;
@@ -486,6 +549,12 @@
   }
   .text-\[\#\] {
     color: #;
+  }
+  .text-\[1\] {
+    color: 1;
+  }
+  .text-\[80p\] {
+    color: 80p;
   }
   .text-white {
     color: var(--color-white);
